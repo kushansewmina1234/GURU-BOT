@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94772108460', 'KUSHAN', true],
-  ['94777640373', 'SEWMINA', true], 
+  ['12095806406', 'BEGINER', true],
+  ['12095806406', 'DATA', true], 
   [''] 
 ] //Number of owners
 
@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'DARK SHAN'
+global.botname = 'GURU 2.0'
 global.premium = 'false'
-global.packname = 'KUSHAN' 
-global.author = '@KUSHAN' 
+global.packname = 'GURU ' 
+global.author = '@GURU' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
